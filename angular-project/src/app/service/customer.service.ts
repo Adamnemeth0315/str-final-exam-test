@@ -8,7 +8,7 @@ import { Customer } from '../model/customer';
 })
 export class CustomerService {
 
-  apiUrl: string = `https://nettuts.hu/jms/cherryApp/customers`;
+  apiUrl: string = `https://nettuts.hu/jms/Adamnemeth0315/customers`;
 
   constructor(
     private http: HttpClient
